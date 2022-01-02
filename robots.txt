@@ -1,7 +1,0 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
-Sitemap: https://test.local/sitemap.xml
-
-Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
